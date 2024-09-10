@@ -1,4 +1,7 @@
 1002254987_DAA
+<details>
+
+<summary>HandsOn-2 Assignment</summary>
 # Proof of Correctness of selection sort
 
 * Initialization 
@@ -30,3 +33,14 @@ When the algorithm keeps running until all elements are arranged in order and th
 * Time Complexity: Selection Sort has a time complexity of O(n^2), where n is the number of elements. This is due to the nested loops where the inner loop performs approximately n/2 comparisons per iteration, leading to O(n^2) total comparisons.
 
 * Space Complexity: The space complexity is O(1) as it sorts the array in place without requiring extra space beyond a few variables.
+</details>
+
+
+# HandsOn-3
+
+<details>
+
+<summary>HandsOn-3 Assignment</summary>
+
+[`HandsOn-3.md`](HandsOn3/HandsOn3.md)
+</details>
