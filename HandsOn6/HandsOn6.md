@@ -4,7 +4,8 @@
 2. [ Code of Quicksort with Non Random Pivot](QuickSortNonRandomchoicePivot.java)<br><br>
 # Question 2 <br>
 * Quicksort Benchmarking<br><br>
-![Alt text](QuicksortBenchmark.png)
+![Alt text](QuicksortBenchmark.png "")
+
 <br><br>
 # Question 3 
 ![Alt text](Q3-1.png)<br>
